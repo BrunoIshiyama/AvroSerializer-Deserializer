@@ -1,0 +1,1 @@
+{"type":"record","name":"Task","namespace":"bean.source.test","fields":[{"name":"name","type":"string"},{"name":"code","type":"int"},{"name":"documents","type":{"type":"array","items":"string","java-class":"java.util.List"}}]}

@@ -1,0 +1,1 @@
+{"type":"record","name":"Job","namespace":"bean.source.test","fields":[{"name":"name","type":"string"},{"name":"code","type":"int"},{"name":"t","type":{"type":"record","name":"Task","fields":[{"name":"name","type":"string"},{"name":"code","type":"int"},{"name":"documents","type":{"type":"array","items":"string","java-class":"java.util.List"}}]}}]}
